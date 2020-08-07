@@ -53,7 +53,7 @@ body{
     justify-content: center;
 }
 .so{
-    margin: 20px;
+    margin: 10px;
     border: solid black;
     width: 40px;
     height: 20px;
@@ -63,7 +63,6 @@ body{
     
     display: grid;
     grid-template-columns: 20% 80%;
-    width: 1300px;
     border-top: solid gray;
     margin: 20px;
     
@@ -99,4 +98,41 @@ body{
 .conclusion{
     padding-top: 20px;
     border-top: solid rgb(228, 220, 220);
+}
+.comment{
+    margin-top: 20px;
+    border-top: dashed black;
+}
+.comment-space{
+    border: solid rgb(228, 222, 222) ;
+    color: grey;
+    padding: 20px;
+    margin-top: 20px
+    
+}
+.somecomment{
+    display: flex;
+    margin-top: 20px;
+}
+.image1{
+    margin-right: 10px;
+}
+.name{
+    color: blue;
+    font-size: 20px;
+}
+.timecomment{
+    color: gray;
+    font-size: 15px;
+}
+.bayto{
+    display: flex;
+    margin-top: 5px;
+    
+}
+.reply{
+    margin-left: 5px;
+}
+.last{
+    padding-left: 12px;
 }
