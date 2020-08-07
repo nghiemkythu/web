@@ -1,0 +1,102 @@
+body{
+   
+    
+    font-family: 'Varela Round', sans-serif;
+    
+    background-size: cover;
+}
+.trangchu{
+    display: grid;
+    grid-template-columns: 20% 60% 20%;
+}
+.buy{
+    background-color: blue;
+    color: white;
+    border-radius:10px ;
+    width: 200px;
+    height: 50px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.book{
+    background-color: rgb(255, 72, 0);
+    color: white;
+    border-radius:10px ;
+    width: 200px;
+    height: 50px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.danhmuc{
+    color: rgb(0, 195, 255);
+    margin:10px
+}
+.thanh{
+    background-color: cornflowerblue;
+    height: 100px;
+    border-radius: 10px;
+}
+.congcu{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.ten{
+    color:White;
+    font-size: 40px;
+    margin-left: 20px;
+}
+.sotrang{
+    display: flex;
+    justify-content: center;
+}
+.so{
+    margin: 20px;
+    border: solid black;
+    width: 40px;
+    height: 20px;
+    text-align: center;
+}
+.baihoc{
+    
+    display: grid;
+    grid-template-columns: 20% 80%;
+    width: 1300px;
+    border-top: solid gray;
+    margin: 20px;
+    
+}
+.image{
+    margin: 20px 20px;
+}
+.van{
+    margin: 40px 40px;
+}
+.pas{
+    display: flex;
+    justify-content: space-between;
+}   
+.title{
+    color: blue;
+    font-size: 20px;
+}
+.time{
+    color: gray;
+    font-size: 10px;
+}
+.doanvan{
+    font-size: 15px;
+    color: black;
+}
+.Totalvisits{
+    text-align: right;
+    color: grey;
+    border-top: solid rgb(228, 220, 220);
+    padding-top: 20px;
+}
+.conclusion{
+    padding-top: 20px;
+    border-top: solid rgb(228, 220, 220);
+}
